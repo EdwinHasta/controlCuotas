@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Control Cuotas</string>
+    <string name="title_activity_registro">Registro</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
